@@ -1,0 +1,16 @@
+{
+  "channels": {
+    "telegram": {
+      "botToken": "8741343869:AAEljV_bVpaveQZVLAnrO7jv5WI5a5AVpoA",
+      "dmPolicy": "open",
+      "allowFrom": ["*"]
+    }
+  },
+  "agent": {
+    "defaults": {
+      "workspace": "./.openclaw/workspace",
+      "model": "google/gemini-2.0-flash-exp",
+      "apiKey": "AIzaSyDbde_x8vkze_Wg2fWCGSpeKJiSNZN9hGw"
+    }
+  }
+}

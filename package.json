@@ -1,0 +1,22 @@
+{
+  "name": "varsha_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "openclaw gateway --config openclaw.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "node-telegram-bot-api": "^0.67.0",
+    "openclaw": "^2026.2.26",
+    "python-shell": "^5.0.0",
+    "youtube-transcript": "^1.2.1",
+    "youtube-transcript-api": "^3.0.6"
+  }
+}
