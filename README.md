@@ -77,5 +77,4 @@ The system follows a modular architecture:
 - **Rate Limiting**: The system uses direct fetch methods; if blocked, it advises the user accordingly.
 - **Language Switch**: The bot dynamically adapts its output language based on user requests (e.g., "Summarize in Hindi").
 
-## 📸 Demo & Screenshots
-[Screenshots/Videos would be linked here in a real submission]
+
